@@ -29,7 +29,7 @@
 
 <p align="center">
 <a href="https://github.com/talha971">
-  <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha971&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" -->alt="talha971"/>
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=talha971&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talha971&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -37,4 +37,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talha971&" alt="talha971" /></p>
+
