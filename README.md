@@ -5,17 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha971&label=Profile%20views&color=0e75b6&style=flat" alt="talha971" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha971" alt="talha971" /></a> </p>
-
 - 🔭 I’m currently working on [PinkAd](https://pinkad.pk/)
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently learning **Backend (.Net & Sql)**
 
 - 👯 I’m looking to collaborate on **AI Chatbot For E-Commerce Website**
 
 - 👨‍💻 All of my projects are available at [https://silly-croquembouche-bb5e5e.netlify.app/](https://silly-croquembouche-bb5e5e.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Front-End Development**
 
 - 📫 How to reach me **talhatahir971@gmail.com**
 
