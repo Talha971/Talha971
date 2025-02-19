@@ -28,14 +28,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/vivek9patel">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha971&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="talha971"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivek9patel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivek9patel&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/talha971">
+  <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha971&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" -->alt="talha971"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=talha971&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talha971&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talha971&show_icons=true&locale=en" alt="talha971" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talha971&" alt="talha971" /></p>
