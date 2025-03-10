@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://silly-croquembouche-bb5e5e.netlify.app/](https://silly-croquembouche-bb5e5e.netlify.app/)
 
-- 💬 Ask me about **Front-End Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **talhatahir971@gmail.com**
 <hr>
