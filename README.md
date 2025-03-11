@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="100%" height="330">
 <br>
-<h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Talha Tahir</h1>
 <h3 align="center">A passionate Software Engineer </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=talha971&label=Profile%20views&color=0e75b6&style=flat" alt="talha971" /> </p>
