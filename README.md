@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=talha971&label=Profile%20views&color=0e75b6&style=flat" alt="talha971" /> </p>
 
-- 🔭 I’m currently working on [PinkAd](https://pinkad.pk/)
+- 🔭 I’m currently working on Events Management System
 
 - 🌱 I’m currently learning **Backend (.Net & Sql)**
 
