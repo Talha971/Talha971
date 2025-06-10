@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=talha971&label=Profile%20views&color=0e75b6&style=flat" alt="talha971" /> </p>
 
-- 🔭 I’m currently working on Events Management System
+- 🔭 I’m currently working on ERP Systems
 
 - 🌱 I’m currently learning **Backend (.Net & Sql)**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://silly-croquembouche-bb5e5e.netlify.app/](https://silly-croquembouche-bb5e5e.netlify.app/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **talhatahir971@gmail.com**
 <hr>
@@ -35,7 +35,9 @@
   <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talha971&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+<p align="center">
+<a href="[![GitHub Streak](https://streak-stats.demolab.com?user=talha971&theme=dark&border_radius=5)](https://git.io/streak-stats)">
+</p>
 
 
 
