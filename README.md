@@ -29,12 +29,19 @@
 <h3>⚙️ &nbsp;GitHub Analytics:</h3>
 <br>
 <p align="center">
+
 <a href="https://github.com/talha971">
 
   <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=talha971&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talha971&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=talha971&theme=dark&border_radius=5)](https://git.io/streak-stats)
+
+</div>
+
 
 
