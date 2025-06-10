@@ -35,8 +35,8 @@
   <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talha971&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=talha971&theme=dark&border_radius=5)](https://git.io/streak-stats)
-
+</p>
 
 
