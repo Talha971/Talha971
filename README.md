@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend (.Net & Sql)**
 
-- 👯 I’m looking to collaborate on **AI Chatbot For E-Commerce Website**
+- 👯 I’m looking to collaborate on **AI Chatbot**
 
 - 👨‍💻 All of my projects are available at [https://silly-croquembouche-bb5e5e.netlify.app/](https://silly-croquembouche-bb5e5e.netlify.app/)
 
